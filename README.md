@@ -1,2 +1,2 @@
 # weatherWeb
-weather website using frontend
+weather website using HTML ,CSS, JS
